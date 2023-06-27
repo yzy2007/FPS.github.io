@@ -1,3 +1,27 @@
 body{
     background-color: rgb(113, 188, 245);
 }
+
+p.content{
+    font-size: 20px;
+    width: 70%;
+}
+
+#foot{
+    
+    position: absolute;
+    font-size: 25px;
+    bottom: 5px;
+    left: 0px;
+}
+
+#header{
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+#header_link{
+    font-size: 22px;
+    width: 33.3%;
+}
